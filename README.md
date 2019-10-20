@@ -3,7 +3,11 @@
  
  To open the tutorial with nbviewer:
  
-https://nbviewer.jupyter.org/github/jasperdewitte/AutoKeras-Tutorial/blob/master/autokeras.ipynb
+ https://nbviewer.jupyter.org/github/jasperdewitte/AutoKeras-Tutorial/blob/master/autokeras.ipynb
+
+ or Google Colab:
+
+ https://colab.research.google.com/github/jasperdewitte/AutoKeras-Tutorial/blob/master/autokeras.ipynb
  
  To visualize your model, you can run the visualize.py program locally and change the folder to your models folder.
  
