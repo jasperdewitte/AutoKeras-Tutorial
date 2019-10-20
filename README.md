@@ -1,4 +1,4 @@
-# AutoKeras-Tutorial
+# Auto-Keras Tutorial
  A tutorial on the common practices for using the AutoKeras Imageclassifier.
  
  To open the tutorial with nbviewer:
