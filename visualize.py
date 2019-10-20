@@ -1,4 +1,4 @@
-# In this script, an autokeras model is visualized on the ssh using the methods as proposed by the autokeras team
+# In this script, an autokeras model is visualized using the methods as proposed by the autokeras team
 # Because this is not a Keras model (due to the preprocessing),
 # only specific autokeras methods can be used.
 
